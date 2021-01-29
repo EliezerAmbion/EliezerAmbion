@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Eliezer Ambion and I am a student at a bootcamp called Avion and I am currently enrolled as an I.T. student at AMA University.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliezerAmbion&show_icons=true&theme=radical)](https://github.com/EliezerAmbion/github-readme-stats)
 <!--
 **EliezerAmbion/EliezerAmbion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
