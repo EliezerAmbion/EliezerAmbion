@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Eliezer Ambion, I am a student at a bootcamp called Avion and I am currently enrolled as an I.T. student in AMA University.
+I have two main passions in my llife, music and coding. Just like reading notes, coding requires extensive knowledge and understanding. Thus, I have been honing my skills to become a Software Engineer at two institutes, AMA University and Avion School.
+
+🔭 I’m currently working on building my portfolio.
+🌱 I’m currently learning Ruby on Rails.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliezerAmbion&show_icons=true&theme=radical)](https://github.com/EliezerAmbion/github-readme-stats)
 <!--
