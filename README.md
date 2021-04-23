@@ -9,6 +9,13 @@ I have two main passions in my llife, music and coding. Just like reading notes,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerAmbion&layout=compact&theme=merko)](https://github.com/EliezerAmbion/github-readme-stats)
 
+<a href="https://github.com/EliezerAmbion/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliezerAmbion&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/EliezerAmbion/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EliezerAmbion&repo=convoychat" />
+</a>
+
 <!--
 **EliezerAmbion/EliezerAmbion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
