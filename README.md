@@ -2,7 +2,7 @@
 
 I have two main passions in my llife, music and coding. Just like reading notes, coding requires extensive knowledge and understanding. Thus, I have been honing my skills to become a Software Engineer at two institutes, AMA University and Avion School.
 
-🔭 I’m currently working on building my portfolio.
+🔭 I’m currently working on building my portfolio.<br>
 🌱 I’m currently learning Ruby on Rails.
 
 <a href="https://github.com/EliezerAmbion/github-readme-stats">
