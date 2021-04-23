@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/EliezerAmbion/EliezerAmbion/master/wave.gif" width="30px">
 
 I have two main passions in my llife, music and coding. Just like reading notes, coding requires extensive knowledge and understanding. Thus, I have been honing my skills to become a Software Engineer at two institutes, AMA University and Avion School.
 
