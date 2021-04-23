@@ -13,7 +13,7 @@ I have two main passions in my llife, music and coding. Just like reading notes,
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliezerAmbion&&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/EliezerAmbion/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliezerAmbion&layout=compact&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerAmbion&layout=compact&theme=merko" />
 </a>
 
 <!--
