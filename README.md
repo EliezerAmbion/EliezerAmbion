@@ -30,7 +30,7 @@ You can connect with me on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/eliezer-ambion/
+[2]: https://www.linkedin.com/in/eliezer-ambion-67614a20a/
 
 <!--
 **EliezerAmbion/EliezerAmbion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
