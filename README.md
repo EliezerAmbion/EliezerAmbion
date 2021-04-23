@@ -5,7 +5,7 @@ I have two main passions in my llife, music and coding. Just like reading notes,
 🔭 I’m currently working on building my portfolio.
 🌱 I’m currently learning Ruby on Rails.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliezerAmbion&show_icons=true&theme=radical)](https://github.com/EliezerAmbion/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliezerAmbion&show_icons=true&theme=gradient)](https://github.com/EliezerAmbion/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerAmbion&layout=compact)](https://github.com/EliezerAmbion/github-readme-stats)
 
