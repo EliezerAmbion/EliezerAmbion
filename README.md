@@ -22,6 +22,15 @@ I have two main passions in my llife, music and coding. Just like reading notes,
 ![](https://img.shields.io/badge/shell-bash-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
 
 
+You can connect with me on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/eliezer-ambion/
 
 <!--
 **EliezerAmbion/EliezerAmbion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
