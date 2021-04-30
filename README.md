@@ -13,7 +13,7 @@ I have two main passions in my llife, music and coding. Just like reading notes,
 </a>
 
 
-## 🔧 Technologies and Tools
+## 🔧 Languages and Tools
 ![](https://img.shields.io/badge/editor-vscode-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-javascript-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-html-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
