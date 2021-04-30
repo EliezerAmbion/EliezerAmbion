@@ -24,7 +24,7 @@ I have two main passions in my llife, music and coding. Just like reading notes,
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />][Netlify]
 
 [linkedin]: https://www.linkedin.com/in/eliezer-ambion-67614a20a/
 [Netlify]: https://app.netlify.com/teams/eliezerambion/overview
