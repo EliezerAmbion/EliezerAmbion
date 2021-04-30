@@ -12,7 +12,7 @@ I have two main passions in my llife, music and coding. Just like reading notes,
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerAmbion&layout=compact&theme=merko" />
 </a>
 
-<br>
+
 ## 🔧 Technologies and Tools
 ![](https://img.shields.io/badge/editor-vscode-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-javascript-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
@@ -20,6 +20,9 @@ I have two main passions in my llife, music and coding. Just like reading notes,
 ![](https://img.shields.io/badge/code-css-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-sass-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/shell-bash-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 
