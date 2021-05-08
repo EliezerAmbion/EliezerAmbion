@@ -47,13 +47,18 @@ I have two main passions in my llife, music and coding. Just like reading notes,
 ![](https://img.shields.io/badge/code-html-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-css-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-sass-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/shell-bash-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/shell-bash-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a) 
+-->
 
 <br>
 
 ### Connect with me:
-
+---
+<!-- 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+-->
+
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/netlify.svg" />][netlify]
 
 [linkedin]: https://www.linkedin.com/in/eliezer-ambion-67614a20a/
