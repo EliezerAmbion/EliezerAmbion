@@ -26,6 +26,8 @@ I have two main passions in my llife, music and coding. Just like reading notes,
 
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain-wordmark.svg" />
 
+<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" />
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
