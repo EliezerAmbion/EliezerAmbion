@@ -42,18 +42,9 @@ I have two main passions in my llife, music and coding. Just like reading notes,
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
-<!-- ![](https://img.shields.io/badge/editor-vscode-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-javascript-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-html-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-css-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-sass-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/shell-bash-9cf?style=flat&logo=<#F7DF1E>&logoColor=white&color=2bbc8a) 
--->
-
 <br>
 
 ### Connect with me:
----
 <!-- 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 -->
