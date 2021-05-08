@@ -18,7 +18,7 @@ I have two main passions in my llife, music and coding. Just like reading notes,
 
 <img align="left" alt="html5" width="26px" src="img/html5.png" />
 
-<img align="left" alt="CSS3" width="26px" src="img/css-3.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
 <!-- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> -->
 
