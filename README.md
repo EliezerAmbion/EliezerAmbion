@@ -1,9 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I have two main passions in my llife, music and coding. Just like reading notes, coding requires extensive knowledge and understanding. Thus, I have been honing my skills to become a Software Engineer at two institutes, AMA University and Avion School.
-
-🔭 I’m currently working on building my portfolio.<br>
-🌱 I’m currently learning Ruby on Rails.
+Music and Coding is my passion.
 
 <a href="https://github.com/EliezerAmbion/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EliezerAmbion&&show_icons=true&theme=midnight-purple" />
